@@ -27,4 +27,5 @@ It supports analytical SQL queries for fraud detection, customer spending analys
 
 
 ## ER Diagram
-![ER Diagram](er_diagram.png)
+![ER Diagram](ERD_Banking_Transaction_Database.png)
+
